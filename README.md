@@ -72,7 +72,7 @@ of the rows of Table 2.
 |---|---|---|
 | 1 | `antiprism` | `MTMD(A_n) = 2n`, and each `b_i` is the unique separator of its pair, for `3 <= n <= 25` |
 | 2 | `icosahedron` | `MTMD(I) = 9 < 12` and `F(I)` is empty, by exhaustive minimisation over one graph |
-| 3 | `bipyramid` | `MTMD(B_n)`, equal to `|V|` for `n = 3,4` and to `|V|-1` for `n >= 5` |
+| 3 | `bipyramid` | `MTMD(B_n)`, equal to `\|V\|` for `n = 3,4` and to `\|V\|-1` for `n >= 5` |
 | 4 | `bipyramid-theorem` | every internal step of the proof that `MTMD(B_n) = n+1`, re-derived independently |
 | 5 | `forcing-theorem` | the forcing criterion against a direct separator count over all triangular edge–face pairs |
 | 6 | `faces-complete` | Euler's formula and edge–face incidence, so that no face is missing or duplicated |
