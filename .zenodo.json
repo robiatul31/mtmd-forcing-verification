@@ -1,0 +1,28 @@
+{
+  "upload_type": "software",
+  "title": "Verification code for \"Mixed Triple Metric Dimension of Polyhedral Graphs: Local Forcing and Extremal Families\"",
+  "creators": [
+    {
+      "name": "Adawiyah, Robiatul",
+      "affiliation": "Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
+    }
+  ],
+  "license": "cc-zero",
+  "access_right": "open",
+  "description": "Computational verification accompanying the paper \"Mixed Triple Metric Dimension of Polyhedral Graphs: Local Forcing and Extremal Families\" by R. Adawiyah, Rinurwati and M. Nagaraj. Eleven independent checks over antiprisms, bipyramids and the icosahedron, reproducing every row of Table 2 of the paper in order. Four of the checks re-derive the internal steps of a proof rather than only its conclusion. Core Perl, no external dependencies, exact integer arithmetic throughout. The companion paper on the triangle-free regime is verified separately.",
+  "keywords": [
+    "mixed triple metric dimension",
+    "metric dimension",
+    "mixed metric dimension",
+    "face metric dimension",
+    "resolving set",
+    "plane graph",
+    "polyhedral graph",
+    "antiprism",
+    "bipyramid",
+    "graph theory",
+    "combinatorics",
+    "reproducible research"
+  ],
+  "language": "eng"
+}
